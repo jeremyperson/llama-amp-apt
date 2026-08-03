@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html><head><title>Llama Amp APT repository</title></head>
+<body style="font-family: monospace; background:#101210; color:#d8dcd8; max-width: 720px; margin: 3em auto; padding: 0 1em;">
+<h1 style="color:#1ae000;">Llama Amp 🦙 — APT repository</h1>
+<p>Add the repo and install:</p>
+<pre style="background:#000; color:#00ff00; padding:1em; border-radius:8px; overflow-x:auto;">
+curl -fsSL https://jeremyperson.github.io/llama-amp-apt/llama-amp.gpg | sudo tee /usr/share/keyrings/llama-amp.gpg > /dev/null
+echo "deb [signed-by=/usr/share/keyrings/llama-amp.gpg] https://jeremyperson.github.io/llama-amp-apt stable main" | sudo tee /etc/apt/sources.list.d/llama-amp.list
+sudo apt update && sudo apt install llama-amp
+</pre>
+<p>Updates then arrive with your normal <code>apt upgrade</code>.</p>
+<p><a style="color:#52ff33;" href="https://github.com/jeremyperson/llama-amp">Project on GitHub</a></p>
+</body></html>

@@ -1,0 +1,39 @@
+Architectures: amd64 arm64 i386
+Codename: stable
+Components: main
+Date: Mon, 03 Aug 2026 20:58:34 +0000
+Label: Llama Amp
+Origin: Llama Amp
+Suite: stable
+MD5Sum:
+ 7276a9a5d6d8a0901f9be8739bb96f8c              153 Release
+ 6e1ddec560c6e6eb601ae6ae9bed3be7             1020 main/binary-amd64/Packages
+ b251d880d411708354de94cedd25f30b              664 main/binary-amd64/Packages.gz
+ 6e1ddec560c6e6eb601ae6ae9bed3be7             1020 main/binary-arm64/Packages
+ b251d880d411708354de94cedd25f30b              664 main/binary-arm64/Packages.gz
+ 6e1ddec560c6e6eb601ae6ae9bed3be7             1020 main/binary-i386/Packages
+ b251d880d411708354de94cedd25f30b              664 main/binary-i386/Packages.gz
+SHA1:
+ b0e33faae8e2fd938abc92f3f9ea7cc29996dd9f              153 Release
+ 5f3bbbbac19e7ea59ae260460cd24ff930c53360             1020 main/binary-amd64/Packages
+ 163c6fcf6214159ad3d7dc65b904917ad1ec3ee7              664 main/binary-amd64/Packages.gz
+ 5f3bbbbac19e7ea59ae260460cd24ff930c53360             1020 main/binary-arm64/Packages
+ 163c6fcf6214159ad3d7dc65b904917ad1ec3ee7              664 main/binary-arm64/Packages.gz
+ 5f3bbbbac19e7ea59ae260460cd24ff930c53360             1020 main/binary-i386/Packages
+ 163c6fcf6214159ad3d7dc65b904917ad1ec3ee7              664 main/binary-i386/Packages.gz
+SHA256:
+ ecbe92231f9cb0e5fec5897a820584f1affe1b89d818292bc0666886d566ea32              153 Release
+ 834b3b121d62a7b100eee5aae02556c5cb2c716cccc16d28a9d37d7e1354bac8             1020 main/binary-amd64/Packages
+ abef245fa6d3da4ebfb40fe530e60a14b95c7bed671360c61ce6509b565146a3              664 main/binary-amd64/Packages.gz
+ 834b3b121d62a7b100eee5aae02556c5cb2c716cccc16d28a9d37d7e1354bac8             1020 main/binary-arm64/Packages
+ abef245fa6d3da4ebfb40fe530e60a14b95c7bed671360c61ce6509b565146a3              664 main/binary-arm64/Packages.gz
+ 834b3b121d62a7b100eee5aae02556c5cb2c716cccc16d28a9d37d7e1354bac8             1020 main/binary-i386/Packages
+ abef245fa6d3da4ebfb40fe530e60a14b95c7bed671360c61ce6509b565146a3              664 main/binary-i386/Packages.gz
+SHA512:
+ 7d7eb2ab4d80dd314391de24368ca058f8c946736f5d6cf804812fb390be16feca53af10f11f482e6cffb2c3513bc0546a4b8a405757ab17efe0d1caca4c6996              153 Release
+ fdad0346c0c37a721862c91bf084e18917d4ca45a75d1b6b8a696a5686f8e9b097dfa5bbaee78614b85b099ca07d62c73ccf8c351d879ba085327caa4513a53f             1020 main/binary-amd64/Packages
+ be4b039887df18a452a135180408aadc0fe44454788d4e93f584e6c65578807bf3d59d3c799155bb7c85a12e56940604c0b56dbe34dc4a9463ddfabf45b09e31              664 main/binary-amd64/Packages.gz
+ fdad0346c0c37a721862c91bf084e18917d4ca45a75d1b6b8a696a5686f8e9b097dfa5bbaee78614b85b099ca07d62c73ccf8c351d879ba085327caa4513a53f             1020 main/binary-arm64/Packages
+ be4b039887df18a452a135180408aadc0fe44454788d4e93f584e6c65578807bf3d59d3c799155bb7c85a12e56940604c0b56dbe34dc4a9463ddfabf45b09e31              664 main/binary-arm64/Packages.gz
+ fdad0346c0c37a721862c91bf084e18917d4ca45a75d1b6b8a696a5686f8e9b097dfa5bbaee78614b85b099ca07d62c73ccf8c351d879ba085327caa4513a53f             1020 main/binary-i386/Packages
+ be4b039887df18a452a135180408aadc0fe44454788d4e93f584e6c65578807bf3d59d3c799155bb7c85a12e56940604c0b56dbe34dc4a9463ddfabf45b09e31              664 main/binary-i386/Packages.gz
