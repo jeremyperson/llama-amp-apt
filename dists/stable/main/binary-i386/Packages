@@ -36,3 +36,22 @@ Description: Winamp-inspired music player
  falling-peak spectrum display, detachable panels, windowshade mode,
  playlist undo, MPRIS2 media keys, and direct ALSA output.
 
+Package: llama-amp
+Architecture: all
+Version: 1.6
+Priority: optional
+Section: sound
+Maintainer: Jeremy Person <1409499+jeremyperson@users.noreply.github.com>
+Depends: python3, python3-gi, python3-gi-cairo, gir1.2-gtk-3.0, gir1.2-gstreamer-1.0, gir1.2-gst-plugins-base-1.0, gir1.2-gdkpixbuf-2.0, gstreamer1.0-plugins-good, gstreamer1.0-alsa, gstreamer1.0-pulseaudio
+Recommends: gstreamer1.0-plugins-bad, gstreamer1.0-libav
+Filename: pool/main/l/llama-amp/llama-amp_1.6_all.deb
+Size: 109556
+MD5sum: 3b4ce2280b83e40e3a57cf9e950ddf52
+SHA1: 0dd9762384a9c99c169c26a1c26b03db8d2baebf
+SHA256: 96d30456803de7ede9d0e101a9ee2a2110a72802acc8490b36b88f3fbc121513
+SHA512: 8f533cf49a54ddb616ae675ead797645f218f277da7a0316badea7104957c6f2d0c927d3b111b2f14cdad5518ca3f7e35d8365da64362d6f1fd0a488835abeaa
+Description: Winamp-inspired music player
+ Compact GTK3 music player with three retro themes, a 10-band equalizer,
+ falling-peak spectrum display, detachable panels, windowshade mode,
+ playlist undo, MPRIS2 media keys, and direct ALSA output.
+
