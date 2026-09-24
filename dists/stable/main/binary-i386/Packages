@@ -94,3 +94,23 @@ Description: Winamp-inspired music player
  spectrum analyzer and oscilloscope, three themes, playlist undo, MPRIS2
  media keys and direct ALSA output.
 
+Package: llama-amp
+Architecture: all
+Version: 1.9
+Priority: optional
+Section: sound
+Maintainer: Jeremy Person <1409499+jeremyperson@users.noreply.github.com>
+Depends: python3, python3-gi, python3-gi-cairo, gir1.2-gtk-3.0, gir1.2-gstreamer-1.0, gir1.2-gst-plugins-base-1.0, gir1.2-gdkpixbuf-2.0, gstreamer1.0-plugins-good, gstreamer1.0-alsa, gstreamer1.0-pulseaudio
+Recommends: gstreamer1.0-plugins-bad, gstreamer1.0-libav, python3-mutagen
+Filename: pool/main/l/llama-amp/llama-amp_1.9_all.deb
+Size: 128882
+MD5sum: 8b2f48c789e2ce1954b56f6dc3f55b69
+SHA1: be7e95f67c80b59d128d10dad668b913f28dda69
+SHA256: 4281451f7adf7a6f3b5b9588d939ae59889bcc8b1f3d6cc8251e0912f72d877b
+SHA512: 79594dc0b792e8079b3ae03fd7ade16cd349867778e3ef824ba4e266148d5da504a3ba0de86beaccb8adc88f6fcb73037e740b941a5e302a2a17688c4790f27d
+Description: Winamp-inspired music player
+ Compact GTK3 music player with real Winamp 2 skins, a media library,
+ gapless and bit-perfect playback, crossfade, a 10-band equalizer, a
+ spectrum analyzer and oscilloscope, three themes, playlist undo, MPRIS2
+ media keys and direct ALSA output.
+
